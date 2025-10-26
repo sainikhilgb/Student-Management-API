@@ -56,11 +56,3 @@ The API will be available at: `http://localhost:8080/api/students`
 - `Services/` — Business logic
 - `Exceptions/` — Custom and global exception handling
 
-## Running Tests
-
-```
-./mvnw test
-```
-
-## License
-This project is for demonstration purposes.
